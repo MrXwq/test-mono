@@ -1,10 +1,11 @@
 <script setup>
 import {getUser1} from '@mo/lib'
 getUser1()
+
 </script>
 
 <template>
- 
+ <div>11111</div>
 </template>
 
 <style scoped>
